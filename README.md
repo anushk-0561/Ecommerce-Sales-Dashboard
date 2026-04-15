@@ -28,4 +28,9 @@ This project presents an **interactive E-commerce Sales Dashboard** built using 
 | DAX (Data Analysis Expressions) | KPI calculations |
 | Power Query Editor | Data cleaning & transformation |
 | Star Schema | Data modeling |
-
+## 📂 Project Structure
+ecommerce-sales-dashboard/
+├── report/ # Power BI .pbix file
+├── images/ # Screenshots of dashboard
+├── data/ # Sample CSV datasets
+├── docs/ # Project documentation
