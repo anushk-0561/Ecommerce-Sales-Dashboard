@@ -29,5 +29,3 @@ This project presents an **interactive E-commerce Sales Dashboard** built using 
 | Power Query Editor | Data cleaning & transformation |
 | Star Schema | Data modeling |
 
-## 📂 Project Structure
-
